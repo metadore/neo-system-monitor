@@ -21,7 +21,7 @@ Monitor **CPU usage**, **per-core activity**, and **system stats** with a sleek,
 
 ## 📸 Demo
 
-![Demo Placeholder](https://via.placeholder.com/800x350.png?text=Replace+with+Your+GIF+or+Screenshot)  
+![Demo Placeholder](image.png)  
 
 *Replace this placeholder with a screenshot or GIF of the monitor running in your terminal for maximum effect.*  
 
